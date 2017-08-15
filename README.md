@@ -1,0 +1,1 @@
+A JumpFm plugin that flats the directory structure.
