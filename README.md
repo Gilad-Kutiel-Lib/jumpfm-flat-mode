@@ -1,1 +1,1 @@
-A JumpFm plugin that flats the directory structure.
+A [JumpFm](](http://jumpfm.org/)) plugin that flats the directory structure.
