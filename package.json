@@ -1,6 +1,6 @@
 {
   "name": "jumpfm-flat-mode",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A [JumpFm](](http://jumpfm.org/)) plugin that flats the directory structure.",
   "main": "index.js",
   "scripts": {
